@@ -1,0 +1,10 @@
+{
+  "name": "Remix OSCAR Club Marketing Assistant",
+  "description": "Automated AI marketing assistant generating synchronized social media packs, 16:9 LED screen banner prompts, and print flyer layouts for OSCAR Club nightlife events.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
